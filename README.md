@@ -28,4 +28,29 @@ Tableau (Desktop / Public)
 - Created a geographic heatmap of state-wise loan distribution across India
 - Built story points for guided narrative walkthrough of key findings
 - Used parameters and calculated fields for dynamic filtering
-- Designed trend line charts and demographic breakdown vie
+- Designed trend line charts and demographic breakdown view
+
+Project highlights & features
+1.Multi-branch data integration
+Appended loan files from all branches into a single master portfolio. Merged customer demographics with repayment history using Customer_ID as the join key.
+2.Loan performance tracking
+Classified every loan into CurrentOverdueDefaulted across Personal, Home, and Auto product lines
+3.Loan Officer Overview dashboard
+Interactive Power BI dashboard showing total funds at risk, overdue percentages, and loan health by branch 
+4.Credit scorecard
+Pre-built scorecard that cross-checks new applicants against existing delinquency and debt-to-income risk patterns for fast, evidence-based approval decisions
+
+Business impact
+Portfolio visibility
+Full real-time view of loan health across all branches and product lines
+Faster approvals
+Scorecard cuts manual review time by giving officers instant risk context
+Reduced bad debt
+Early detection of high DTI ratios prevents approving future defaulters
+Margin clarity
+Principal–interest breakdown reveals which loan products are truly profitable
+
+screeshot of the Dashboard
+1.LOAN analyst Dashboard  (https://github.com/Udaykumar723/Bank-analytics-Dashboard/blob/main/Loan_analyst%20dashboard.png)
+2.Criedt and Debit dashboard (https://github.com/Udaykumar723/Bank-analytics-Dashboard/blob/main/Criedt%20And%20Debit%20dashboard.png)
+
